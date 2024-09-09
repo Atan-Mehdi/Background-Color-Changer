@@ -21,7 +21,9 @@ This project is a simple yet interactive web application that allows users to ch
 4. The background will instantly update to reflect your selection!
 
 ## Screenshots
-![screenshot1](images/screenshot1.png)
+![screenshot1](https://github.com/Atan-Mehdi/Background-Color-Changer/blob/main/Screenshot%202024-09-09%20204237.png)
+![screenshot1](https://github.com/Atan-Mehdi/Background-Color-Changer/blob/main/Screenshot%202024-09-09%20204410.png)
+
 _A screenshot showing the color change functionality._
 
 ## Project Setup
